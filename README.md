@@ -1,2 +1,4 @@
 # gestionaPrac
-Operated System administration
+## Operated System administration
+
+Actividad propuesta en Administración de sitemas Operativos.
